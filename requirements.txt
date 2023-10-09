@@ -1,0 +1,12 @@
+#opencv-python-headless==4.5.3.56
+
+streamlit
+click
+numpy
+opencv-python
+#opencv-python-headless
+pandas
+torch
+torchvision
+albumentations
+matplotlib
